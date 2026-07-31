@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Bhardwaj</h1>
-<h3 align="center">A passionate Python developer and Front-end Developer from India</h3>
+<h3 align="center">A passionate Python developer and Data analyst from India</h3>
 
 <img  align="right" width="400" height="300"
   src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="coding">
