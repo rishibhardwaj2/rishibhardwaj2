@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Nodejs , expressjs**
 
-- 📫 How to reach me **rishibhardwaj170@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
